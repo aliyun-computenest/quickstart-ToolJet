@@ -195,15 +195,6 @@ Outputs:
             - Fn::GetAtt:
               - InstanceGroup
               - PublicIps
-  初始用户名:
-    Description:
-      zh-cn: 初始用户名
-    Value: root
-  初始密码:
-    NoEcho: true
-    Description:
-      zh-cn: 初始密码
-    Value: password
 Metadata:
   ALIYUN::ROS::Interface:
     ParameterGroups:
