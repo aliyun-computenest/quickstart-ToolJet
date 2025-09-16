@@ -1,6 +1,6 @@
 # ToolJet社区版 快速部署
 
-## 概述
+## 概述。
 
 ToolJet 是一个开源的低代码框架，用于以最少的工程工作量构建和部署内部工具。ToolJet 的拖放式前端构建器可让您在几分钟内创建复杂、响应迅速的前端。此外，您还可以集成各种数据源，包括 PostgreSQL、MongoDB 和 Elasticsearch 等数据库；具有 OpenAPI 规范和 OAuth2 支持的 API 端点；
 
